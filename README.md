@@ -1,5 +1,9 @@
 # TML Assignment 1: Membership Inference Attack
 
+**Submitted by:**  
+Madhvan Bajaj (7072049)
+Anish Chandrasekaran (7072812)
+
 This repository contains the code that produced our best leaderboard result
 on the Membership Inference Attack task. The attack combines **LiRA**
 (Carlini et al. 2022) with **RMIA** (Zarifzadeh et al. 2023): we train shadow
