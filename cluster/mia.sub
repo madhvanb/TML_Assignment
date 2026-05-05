@@ -2,7 +2,7 @@ universe       = docker
 docker_image   = pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel
 
 executable     = /bin/bash
-arguments      = /home/YOUR_USERNAME/tml26-mia/run_job.sh
+arguments      = /home/atml_team011/tml26-mia/run_job.sh
 
 output         = /home/atml_team011/tml26-mia/runlogs/mia.$(ClusterId).$(ProcId).out
 error          = /home/atml_team011/tml26-mia/runlogs/mia.$(ClusterId).$(ProcId).err
